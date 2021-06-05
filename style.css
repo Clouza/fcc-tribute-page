@@ -24,6 +24,9 @@
 
 figcaption {
     font-family: consolas;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 
